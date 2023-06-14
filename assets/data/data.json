@@ -1,0 +1,271 @@
+{
+	"main": {
+		"name": "Vishwajit ",
+		"shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+		"titles": [
+			"Frontend Development",
+			"Backend Development",
+			"App Development"
+		],
+		"heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+		"techStackImages": [
+			"https://img.icons8.com/color/144/000000/material-ui.png",
+			"https://img.icons8.com/color/144/000000/html-5--v1.png",
+			"https://img.icons8.com/color/144/000000/redux.png",
+			"https://img.icons8.com/color/144/000000/chakra-ui.png"
+		]
+	},
+	"about": {
+		"aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+		"aboutImageCaption": "< I build stuff 🚀/>",
+		"title": "Full Stack Developer",
+		"about": "I am a Full-Stack developer based in Pune, India. I'm an Information Technology undergraduate from SPPU, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
+		"callUrl": "number",
+		"resumeUrl": "url"
+	},
+	"socials": [
+		{
+			"icon": "https://img.icons8.com/material-outlined/96/null/linkedin.png",
+			"link": "https://www.linkedin.com/in/ishubhamkr"
+		},
+		{
+			"icon": "https://img.icons8.com/material-outlined/96/null/github.png",
+			"link": "https://github.com/shubham0809200"
+		},
+		{
+			"icon": "https://img.icons8.com/material-outlined/96/null/instagram-new.png",
+			"link": "https://www.instagram.com/i.shubham.kr/"
+		},
+		{
+			"icon": "https://img.icons8.com/material/144/null/twitter.png",
+			"link": "https://twitter.com/kr08092000"
+		},
+		{
+			"icon": "https://img.icons8.com/color/144/null/medium-monogram.png",
+			"link": "https://medium.com/@i.shubham"
+		}
+	],
+	"skills": [
+		{
+			"name": "Angular",
+			"image": "https://img.icons8.com/color/144/null/angularjs.png",
+			"category": "Frontend"
+		},
+		{
+			"name": "HTML5",
+			"image": "https://img.icons8.com/color/144/null/html-5--v1.png",
+			"category": "Frontend"
+		},
+		{
+			"name": "CSS3",
+			"image": "https://img.icons8.com/color/144/null/css3.png",
+			"category": "Frontend"
+		},
+		{
+			"name": "JavaScript",
+			"image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+			"category": "Frontend"
+		},
+		{
+			"name": "TypeScript",
+			"image": "https://img.icons8.com/color/144/null/typescript.png",
+			"category": "Frontend"
+		},
+		{
+			"name": "Bootstrap",
+			"image": "https://img.icons8.com/color/144/null/bootstrap.png",
+			"category": "Frontend"
+		},
+		{
+			"name": "node",
+			"image": "https://img.icons8.com/color/144/null/nodejs.png",
+			"category": "Frontend"
+		},
+		{
+			"name": "DevExtreme",
+			"image": "/assets/techimages/devextreme.jpeg",
+			"category": "Frontend"
+		},
+		{
+			"name": "Laravel",
+			"image": "/assets/techimages/laravel.png",
+			"category": "Backend"
+		},
+		{
+			"name": "Docker",
+			"image": "https://img.icons8.com/color/144/null/docker.png",
+			"category": "Backend"
+		},
+		{
+			"name": "Firebase",
+			"image": "https://img.icons8.com/color/144/null/firebase.png",
+			"category": "Backend"
+		},
+		{
+			"name": "MySQL",
+			"image": "/assets/techimages/mysql.png",
+			"category": "Backend"
+		},
+		{
+			"name": "GitHub",
+			"image": "https://img.icons8.com/material-outlined/96/null/github.png",
+			"category": "Tools"
+		},
+		{
+			"name": "Git",
+			"image": "https://img.icons8.com/color/144/null/git.png",
+			"category": "Tools"
+		},
+		{
+			"name": "Slack",
+			"image": "https://img.icons8.com/color/144/null/slack-new.png",
+			"category": "Tools"
+		},
+		{
+			"name": "Ray",
+			"image": "/assets/techimages/ray.png",
+			"category": "Tools"
+		},
+		{
+			"name": "TinkerWell",
+			"image": "https://tinkerwell.app/images/tinkerwell_logo.png",
+			"category": "Tools"
+		},
+		{
+			"name": "Googling",
+			"image": "https://img.icons8.com/color/144/null/google-logo.png",
+			"category": "Tools"
+		}
+	],
+	"projects": [
+		{
+			"name": "Project MERN",
+			"techstack": "HTML5, CSS3, JavaScript, jQuery",
+			"category": "WebProjects",
+			"image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+			"links": {
+				"code": "dc",
+				"video": "adc",
+				"visit": "d"
+			}
+		},
+		{
+			"name": "Portfolio",
+			"techstack": "Angular, Firebase",
+			"category": "Angular",
+			"image": "/assets/techimages/to-do-list-backend.webp",
+			"links": {
+				"code": "",
+				"video": "",
+				"visit": ""
+			}
+		},
+		{
+			"name": "Project FLUTTER",
+			"techstack": "Flutter, Dart, Firebase",
+			"category": "Angular",
+			"image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+			"links": {
+				"code": "",
+				"video": "",
+				"visit": ""
+			}
+		},
+		{
+			"name": "Project FLUTTER",
+			"techstack": "Flutter, Dart, Firebase",
+			"category": "Angular",
+			"image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+			"links": {
+				"code": "",
+				"video": "",
+				"visit": ""
+			}
+		},
+		{
+			"name": "Project LAMP",
+			"techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+			"category": "Blogs",
+			"image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+			"links": {
+				"code": "",
+				"video": "",
+				"visit": ""
+			}
+		}
+	],
+	"educations": [
+		{
+			"institute": "Savitribai Phule Pune University",
+			"degree": "BE | Information Technology",
+			"duration": "2018 - 2022",
+			"isLeft": true,
+			"desc": [
+				"Studied basic computer science and programming concepts",
+				"Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
+				"Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies.",
+				"Learned about the fundamentals of computer science, including data structures, algorithms, and programming languages."
+			]
+		},
+		{
+			"institute": "Janata Junior College Ahmednagar",
+			"degree": "HSC Science",
+			"duration": "2017 - 2018",
+			"isLeft": false,
+			"desc": [
+				"Took up computer science as a major subject in 12th standard",
+				"Studied advanced computer science and programming concepts",
+				"Studied advanced Concepts of Maths,Physics,Biology, and Chemistry"
+			]
+		},
+		{
+			"institute": "Public School Walunj",
+			"degree": "SSC",
+			"duration": "2015 - 2016",
+			"isLeft": true,
+			"desc": [
+				"Mathematics: Studied multiplication, division, fractions, decimals, and basic geometry.",
+				"Science: Explored the solar system, states of matter, basic physics principles, and the life cycle of plants and animals.",
+				"Language Arts: Developed reading and writing skills, including analyzing texts, expanding vocabulary, learning grammar rules, and practicing sentence and paragraph construction."
+			]
+		}
+	],
+	"experiences": [
+		{
+			"company": "BytePhase Technologies Pvt Ltd",
+			"position": "Junior Software Developer - Full time",
+			"duration": "Aug 2022 - Present",
+			"isLeft": true,
+			"desc": [
+				"Currently employed as a Full Stack Developer at a company.",
+				"Responsibilities include building and consuming RESTful APIs, integrating payment gateways, and developing Progressive Web Applications (PWAs) using technologies like Laravel, MySQL, and JavaScript.",
+				"Collaborate with cross-functional teams and follow best practices to optimize the performance and security of web applications.",
+				"Ensure thorough documentation for projects, including technical specifications and user guides."
+			]
+		},
+		{
+			"company": "Freelancer",
+			"position": "Software Developer",
+			"duration": "2021 - Present",
+			"isLeft": false,
+			"desc": [
+				"Skilled in handling and building complex websites as a freelance Full Stack Web Developer.",
+				"Proficient in PHP, JavaScript, Angular, and Laravel.",
+				"Capable of designing and implementing robust solutions for complex website requirements.",
+				"Experienced in working with diverse technologies and frameworks to deliver sophisticated web applications."
+			]
+		},
+		{
+			"company": "BytePhase Technologies Pvt Ltd",
+			"position": "Frontend Developer - Intern",
+			"duration": "2021 - 2022",
+			"isLeft": true,
+			"desc": [
+				"Implement front-end designs and user interfaces using Angular,Bootstrap, HTML5, and CSS3 also with DevExtreme.",
+				"Build and consume RESTful APIs to interact with backend systems\nand databases.",
+				"Manage git and GitHub projects and tickets",
+				"Skills: HTML · CSS · JavaScript · Bootstrap · Angular · NodeJS · MySQL · REST APIs · DevExtreme"
+			]
+		}
+	]
+}
